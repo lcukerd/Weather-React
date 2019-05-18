@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technology Used
+
+- ReactJS
+- NodeJS
+
+Weather API used: https://www.apixu.com/
 
 ## Available Scripts
 
